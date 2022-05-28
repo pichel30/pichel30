@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pichel30 my name is Aaron
 - 👀 I’m interested in create apps and learn programing languagues
-- 🌱 I’m currently learning React Node and C# with .NetCore
+- 🌱 I’m currently learning Angular, React, Node and C# with .NetCore
 - 💞️ I’m looking to collaborate on educational proyects
 - 📫 How to reach me, easy send a message by here.
 
